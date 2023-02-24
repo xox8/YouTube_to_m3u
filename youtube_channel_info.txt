@@ -1,6 +1,14 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
+三立華劇 SET Drama 1 | 台湾 |  |
+https://www.youtube.com/watch?v=EQ4s_FzBwuM
+
+三立華劇 SET Drama 2 | 台湾 |  |
+https://www.youtube.com/watch?v=jtgYMh6ngcU
+
+三立華劇 SET Drama 3 | 台湾 |  |
+https://www.youtube.com/watch?v=r0L3tjIC_60
 
 연합뉴스TV | 韩国 |  |
 https://www.youtube.com/watch?v=0GN8t2u3flc/live
